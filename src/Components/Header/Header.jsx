@@ -1,4 +1,5 @@
 import React from "react";
+import "./HeaderStyle.scss";
 
 function Header(){
     return(

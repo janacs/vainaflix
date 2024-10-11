@@ -1,0 +1,15 @@
+main{
+    text-align: center;
+
+    img{
+        width: 100vw;
+        max-width: 400px;
+        height: 30vh;
+    }
+
+    figure{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+}

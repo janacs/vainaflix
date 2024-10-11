@@ -1,0 +1,17 @@
+header{
+    background-color: brown;
+    color: white;
+
+
+    ul{
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        align-items: center;
+        height: 12vh;
+    }
+
+    li{
+        cursor: pointer;
+    }
+}
